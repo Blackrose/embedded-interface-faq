@@ -8,6 +8,11 @@
 * MCU
 * LVDS
 * RGB
+* 
+## Touch Panel
+
+* Four wires
+* Five wires
 
 ## Camera
 
