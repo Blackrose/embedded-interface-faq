@@ -28,3 +28,11 @@
 
 * I2C
 
+## Touch Screen
+
+* Resistive
+    * 4 wire
+    * 5 wire
+
+* Capacitive
+    * I2C, IRQ, WAKE
