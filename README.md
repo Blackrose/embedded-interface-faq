@@ -8,6 +8,16 @@
 * MCU
 * LVDS
 * RGB
+ 
+## Touch Panel
+
+* Resistive
+    * Four wires
+    * Five wires
+    * Seven wires
+    * Eight wires
+* Capacitive
+    * IIC
 
 ## Camera
 
@@ -36,3 +46,12 @@
 
 * Capacitive
     * I2C, IRQ, WAKE
+
+## Ethernet
+
+* MII
+
+## USB Port
+
+* Host: D+, D-, VBUS, GND
+* Device: D+, D-, VBUS, ID, GND
